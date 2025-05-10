@@ -41,7 +41,7 @@
 > 📂 [View Repository](#)
 
 #### 📗 [Web application with python 2](#)
-> *Description:* A short paragraph about the aim and solution the project offers.  
+> *Description:* Provides educational materials.  
 > *Stack:* python  
 > 📂 [View Repository](#)
 
